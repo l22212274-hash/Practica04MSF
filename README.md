@@ -2,9 +2,9 @@
 
 # Práctica: Regeneración de glóbulos rojos [Sistema de EDOs]
 
-## Información del estudiante
+## Información de la estudiante
 
-Paul A. Valle [05211261]; paul.valle@tectijuana.edu.mx
+ Ximena Solis Marrufo[22212274]; l22212274@tectjiuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -36,13 +36,11 @@ El sistema se resolvió con los siguientes parámetros de gamma y beta:
 2. beta = [1.650, 0.867, 1.617, 2.615, 1.518, 2.676, 0.891, 2.557, 0.925, 0.089];
 
 y con las siguientes condiciones iniciales:
-1. x1(0) = COLOCAR SUS CONDICIONES INICIALES;
-2. x2(0) = COLOCAR SUS CONDICIONES INICIALES;
-3. x3(0) = COLOCAR SUS CONDICIONES INICIALES;
+1. x1(0) = 58.4957145084779, 59.3682822499137, 58.5212070479308, 58.5168038103698, 59.4838759831794, 59.4379461010612, 59.3425775997072, 58.5453141816050, 59.5427617375823, 58.5881709465957;
+2. x2(0) = 43.6239226842886, 44.2746511694272, 43.6429340696433, 43.6396502992588, 44.3608566654220, 44.3266038719778, 44.2554815997817, 43.6609122710275, 44.4047714653156, 43.6928732483087;
+3. x3(0) = 877.435717627168, 890.524233748706, 877.818105718962, 877.752057155547, 892.258139747692, 891.569191515917, 890.138663995608 878.179712724076, 893.141426063735 878.822564198936;
 
-
-
-Palabras clave: ?; ?; ?; ?; ?.
+Palabras clave: Sistema EDOs; Modelo Fisiológico; Regeneración de glóbulos rojos; Método Euler; Transfusión Sanguinea.
 
 ## Lista de archivos incluidos en el repositorio
 
